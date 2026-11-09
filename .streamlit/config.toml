@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "type"
+
+[server]
+runOnSave = false

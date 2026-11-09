@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.DS_Store
+outputs/
+.streamlit/secrets.toml
+STREAMLIT_SECRETS_paste_into_streamlit_cloud.toml
